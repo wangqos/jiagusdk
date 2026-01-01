@@ -1,4 +1,4 @@
-# RootBeerFresh 根检测技术逆向分析报告（增强版）
+# RootBeerFresh Root检测技术分析
 
 ## 项目概述
 
